@@ -38,35 +38,34 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
-```
+the selector: "h1.main-title", the property: "color: ", and the value: "rgba(255, 210, 33, .75);".
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+You would change the font-weight.
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+<body></body>
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ol>, <ul>, <li>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+the display flex property allows you to manipulate where in the parent element (the one which has display: flex applied) items are placed and organized.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+The width and height, also their variants like max-width, or min-height, etc.
 ```
