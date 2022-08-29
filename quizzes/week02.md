@@ -3,7 +3,9 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+1) Var
+2) Let
+3) Const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
@@ -22,7 +24,9 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+fruit[2] = pineapple
+essentially pineapple is located at index level 2
+that is the case because an array starts 0 and goes up, and since it is the third element and it starts from 0, 0->1->(2)
 ```
 **5.** With these two objects: 
 ```js
@@ -31,8 +35,9 @@ let them = { name:"Them", hair: false, friends: [] }
 ```
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
-```
-
+```js
+let your_friends = you.friends
+your_friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -47,7 +52,8 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+1) the Increment or Decrement
+2) i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
