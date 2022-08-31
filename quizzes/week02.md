@@ -10,7 +10,7 @@
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A piece of code that you can call at any time that enacts a special job.
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
